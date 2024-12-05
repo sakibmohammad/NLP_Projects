@@ -1,0 +1,81 @@
+Principal Data Scientist - Retail Media Network
+Grand Rapids, MI
+
+As a family company, we serve people and communities. When you work at Meijer, you’re provided with career and community opportunities centered around leadership, personal growth and development. Consider joining our family – take care of your career and your community!
+
+
+Meijer Rewards
+
+Weekly pay
+
+Scheduling flexibility
+
+Paid parental leave
+
+Paid education assistance
+
+Team member discount
+
+Development programs for advancement and career growth
+
+
+Please review the job profile below and apply today!
+
+The Data Science team at Meijer leads the strategy, development and integration of Machine Learning and Artificial Intelligence at Meijer. As a Principal Data Scientist for the Retail Media Network, your crucial contributions will amplify customer engagement and satisfaction, boost digital conversion rates, and enhance operational efficiency through innovative, data-focused strategies for tailoring and assessing campaign performance. This encompasses the implementation of closed-loop measurement, last-touch and multi-touch attribution, as well as incremental measurement and personalization techniques. By deploying these methodologies, data scientists at Meijer deliver substantial business value, reduce risks associated with business operations, and make a marked difference in the customer experience. In this capacity, you will engage directly with teams across product development, merchandising, marketing, operations, ITS, e-commerce, and external vendor partners. Your responsibilities will include leading, advising, or managing a portfolio of highly complex data science projects, programs, or domains that significantly influence the company and necessitate a deep understanding of various architectural disciplines, including technological, solution-oriented, business, and informational/data aspects
+.
+
+What You'll Be Doing:
+
+Execute the overarching RMN data science strategy to drive in-store and digital merchandising, marketing, customer loyalty, and operational performance
+
+Collaborate with product development to establish requirements that align with both system capabilities and customer experience objectives for data science initiatives.
+
+Develop, deploy, and perfect a last-touch and multi-touch attribution framework for the retail media network through teamwork with marketing, operations, data engineering, product management, & other key players, leveraging diverse data sources including digital and in-store.
+
+Spearhead the design and execution of advanced statistical modeling techniques and machine learning algorithms to analyze complex data sets, uncover key drivers of consumer behavior, and attribute marketing touchpoints accurately.
+
+Plan and manage A/B testing to confirm and enhance the attribution model’s efficacy, ensuring its reliability and statistical validity.
+
+Keep up-to-date with the latest developments in incrementality, last-touch and multi-touch attribution techniques, industry movements, and new technologies, incorporating them to improve the model’s accuracy.
+
+Promote ongoing refinement and enhancement of the attribution & incrementality model by monitoring its effectiveness, analyzing performance indicators, and making informed adjustments.
+
+Build production ready prototypes for, and iteratively develop, end-to-end data science pipelines including custom algorithms, statistical models, machine learning and artificial intelligence functions supporting RMN team initiatives
+
+Partner with product development and technology teams to deploy pipelines into production MLOps environment following Safe Agile methodology
+
+You will architect, design, and lead the development and implementation of machine learning algorithms and models for a data science capability within Digital Services, Merchandising, Marketing, Supply Chain and Operations.
+
+Designs, codes, and implements new industry leading design patterns in data science, to create the convention/technique/practice that teams are accountable to follow.
+
+Foster a culture of innovation by keeping up-to-date with the latest industry trends and research across RMN, IAB/MRC retail media measurement standards, data science, AI and retail.
+
+Mentors and provides technical leadership to a team of data scientists, promoting a culture of collaboration, innovation, curiosity, accountability, & enthusiasm.
+
+Provides data science strategy to ensure code modernization and industry standard patterns for data science.
+
+Provides guidance to development teams within domain (Commerce, Services or Mobile).
+
+Leads non-functional requirements (NFRs) such as security, reliability, performance, maintainability, scalability, and usability related to data science.
+
+Promotes the implementation of new technology, solutions, and methods to improve business processes, efficiency, effectiveness, and value delivered to customers.
+
+Proactively identify data driven solutions for strategic cross-functional initiatives, develop and present business cases, and gain stakeholder alignment of solution
+
+Responsible to define, document & follow best practices & approve for ML/AI development at Meijer
+
+Own communication with data consumers (internal and external) to ensure they understand the data science products, have the proper training, and are following the best practices in application of data science products
+
+Define and analyze Key Performance Indicators to monitor the usage, adoption, health and value of the data products
+
+Identify and scope, in conjunction with IT, the architecture of systems and environment needs to ensure that data science systems can deliver against strategy
+
+Build and maintain relationships with key partners, suppliers and industry associations and continue to advance data science capabilities, knowledge and impact
+
+This job profile is not meant to be all inclusive of the responsibilities of this position; may perform other duties as assigned or required
+
+What You Bring with You (Qualifications):
+
+Advanced Degree (MA/MS, PhD) in Data Science, Computer Science, Mathematics, Statistics, Economics, or related quantitative field
+Certifications: Azure Data Science Associate, Azure AI, Safe Agile
+8+ years of relevant data science experience in an applied role – preferable w/in retail, logistics, supply chain or CPG with a focus on NLP and AI

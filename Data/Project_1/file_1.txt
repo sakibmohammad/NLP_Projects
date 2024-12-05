@@ -1,0 +1,25 @@
+Artificial Intelligence/Machine Learning (AI/ML) SME
+Lorton, VA
+
+
+Overview:
+Systems Planning and Analysis, Inc. (SPA) delivers high-impact, technical solutions to complex national security issues. With over 50 years of business expertise and consistent growth, we are known for continuous innovation for our government customers, in both the US and abroad. Our exceptionally talented team is highly collaborative in spirit and practice, producing Results that Matter. Come work with the best! We offer opportunity, unique challenges, and clear-sighted commitment to the mission. SPA: Objective. Responsive. Trusted.
+
+The Joint, Office of the Secretary of Defense, Interagency Division provides expert support services to a range of customers spanning across the Department of Defense, Federal Civilian, and international markets. JOID provides a diverse portfolio of analytical and programmatic capabilities to help our customers make informed decisions on their most challenging issues.
+
+JOID assists the Defense Threat Reduction Agency (DTRA) in developing leading edge technologies to counter WMD in support of CCMDs and transitioning these technologies to military services and COCOMs. SPA provides expertise across the full range of chemical, biological, radiological, nuclear and high-yield explosives (CBRNE) WMD, Counter Improvised Threat and Countering Threat Network technologies to support understanding, detection, identification, characterization, denial, control, disabling, defeating, disposing, safeguarding the force, managing consequences, and test and evaluation in support of military and civilian operations.
+
+We have an immediate need for an Artificial Intelligence/Machine Learning (AI/ML) Subject Matter Expert to provide onsite support working at DTRA HQ and our Lorton, VA office.
+Responsibilities:
+Provide subject matter expertise (SME) in artificial intelligence (AI), machine learning, and data science (AI/ML/DS) to advise and assist the Office of the Chief Data and AI Officer (OCDAO) in policy formation and implementation, technical, and advance analytic support. Utilize deep knowledge of AI/ML/DS technologies to make recommendations to DTRA leadership and AI/ML/DS stakeholders on how to better support the development, incorporation of, and use of AI/ML/DS technologies at DTRA. Support the development and implementation of Federal and DoD AI requirements, such as the responsible and safe use of AI (e.g., Responsible AI Toolkit) and AI Inventory. Support the implementation of DTRA’s AI risk management framework, including reviewing risks associated with DTRA AI use cases and providing feedback on mitigation strategies. Support the OCDAO in the development and sustainment of DTRA’s AI Community of Practice, development of briefings, white papers, articles, policies, and responses to DoD taskers/RFIs, and literacy efforts. Work across DTRA and DoD on data science efforts, including data and infrastructure required to advance AI/ML/DS development and use; work with DTRA stakeholders to understand their AI/ML/DS technology needs and identify solutions or vendors that can best meet those needs - this work may include providing expertise on AI/ML/DS to advise on technology acquisitions; support the advancement of AI/ML/DS capabilities within DTRA. Work with industry to share DTRA’s AL/ML/DS needs, facilitate discussions and demonstrations, and understand the state-of-the-art AI/ML/DS technologies offered by industry.
+Qualifications:
+Required:
+Master's degree in computer science, data science, or math/statistics with minimum of 10 years of relevant experience.
+Extensive experience developing, using, or managing the development of AI/ML/DS capabilities.
+Knowledge of DoD and DTRA policy process development and implementation.
+Active DoD Secret clearance with ability to obtain and maintain TS/SCI.
+Desired:
+PhD in computer science, data science, or math/statistics with 6 or more years of related experience in this field of work.
+DoD, CWMD, or CBRNE experience.
+Strong knowledge and experience of current AI/ML/DS state-of-the-art technologies in industry.
+Active DoD TS/SCI.

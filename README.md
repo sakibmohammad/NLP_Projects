@@ -2,5 +2,6 @@ This repository containts some Natural Language Processing (NLP) projects that I
 
 Project 1. Plagarism detection in text files.
 Project 2. Classifying sentiments in a compilation of Amazon Reviews.
+Project 3. Predicting Apple stock using an LSTM.
 
 
